@@ -14,14 +14,14 @@ class App extends Component {
         <div>
         <Navigation />
         <Hero />
-        <div class="container">
+        <div className="shit">
               <Cards picture="/assets/images/spain_flag.svg" country="Spain" link="http://www.spain.info/en_US/" title="Spain Tourism Site" />
               <Cards picture="/assets/images/italy_flag.svg" country="Italy" link="http://www.italia.it/en/home.html" title="Italy Tourism Site" />
               <Cards picture="/assets/images/aruba_flag.svg" country="Aruba" link="http://www.arubatourism.com/" title="Aruba Tourism Site" />
               <Cards picture="/assets/images/chile_flag.svg" country="Chile" link="http://chile.travel/en/" title="Chile Tourism Site" />
         </div>
         
-        <div class="page-row" id="travel-table">
+        <div className="page-row" id="travel-table">
         <h3> Some information about the places I would like to visit</h3>
           <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%"> 
             <tr>
