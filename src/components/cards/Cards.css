@@ -1,0 +1,17 @@
+
+.container {
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin-top: 20px;
+    
+  }
+  
+  .row h2 {
+    font-size: 28px;
+    font-family: helvetica;
+    text-align: center;
+  }
+  
+  

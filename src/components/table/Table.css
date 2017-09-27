@@ -1,0 +1,14 @@
+.page-row {
+    background-color: white;
+    height: 230px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  .page-row h3 {
+    text-align: center;
+  }
+
+  .table, tr, th, td {
+      border: 1px solid gray;
+  }

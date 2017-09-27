@@ -1,0 +1,26 @@
+
+
+* {
+  box-sizing: border-box;
+  font-family: helvetica;
+}
+
+body {
+  background-color: black;
+  font-size: 16px;
+}
+
+h1{
+  font-size: 48px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 28px;
+}
+
+
+
