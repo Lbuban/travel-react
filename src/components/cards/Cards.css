@@ -10,11 +10,12 @@
   }
   
   .row h2 {
-    font-size: 28px;
-    font-family: helvetica;
+    font-size: 40px;
+    font-family: 'Shadows Into Light', cursive;
     text-align: center;
   }
   
   .card {
       padding-right: 20px;
   }
+

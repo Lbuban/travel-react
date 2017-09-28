@@ -5,6 +5,10 @@ import Hero from './components/hero/Hero';
 import Cards from './components/cards/Cards';
 import Footer from './components/footer/Footer';
 import Table from './components/table/Table';
+import { Navbar, Jumbotron, Button } from 'react-bootstrap';
+import { Carousel, Caption, Item, Grid, Row, Col } from 'react-bootstrap';
+import { Nav, NavItem } from 'react-bootstrap';
+
 
 
 class App extends Component {

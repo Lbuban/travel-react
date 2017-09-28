@@ -1,8 +1,7 @@
-
-
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 * {
   box-sizing: border-box;
-  font-family: helvetica;
+  font-family:  'Shadows Into Light', cursive;
 }
 
 body {
